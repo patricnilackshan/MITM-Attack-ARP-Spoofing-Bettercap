@@ -100,5 +100,5 @@ This project is for educational purposes only. Unauthorized use of ARP or DNS sp
 
 ## References
 
-- [Bettercap Documentation](https://www.bettercap.org/docs/)
-- [ARP Spoofing Explained](https://www.varonis.com/blog/arp-spoofing)
+- [Bettercap Documentation](https://www.bettercap.org)
+- [ARP Spoofing Explained](https://www.varonis.com/blog)
